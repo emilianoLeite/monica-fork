@@ -1,6 +1,6 @@
 # Monica CRM
 
-## Todo
+## TODOs
 - [ ] Add prettier
 - [ ] Add postgres connection
 - [ ] Import birthdays from Google Calendar
